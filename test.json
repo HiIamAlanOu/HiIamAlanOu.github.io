@@ -1,0 +1,8 @@
+{
+    "_id": "latest",
+    "name": "latest",
+    "title": "最新",
+    "focus": true,
+    "sortOrder": 0,
+    "type": "fixed"
+}
